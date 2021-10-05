@@ -1,0 +1,14 @@
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.exe
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.deps.json
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.runtimeconfig.json
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.runtimeconfig.dev.json
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.dll
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.pdb
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.csproj.AssemblyReference.cache
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.AssemblyInfoInputs.cache
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.AssemblyInfo.cs
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.dll
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.pdb
+C:\Users\Ana Komase\source\repos\meuPrimeiroProgramaCSharp\meuPrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\meuPrimeiroProgramaCSharp.genruntimeconfig.cache
